@@ -1,10 +1,14 @@
 footer {
-  background: var(--cadet-gray);
+  background: var(--paynes-gray);
   margin-top: 7rem;
   padding-top: 7rem;
   font-size: 0.9rem;
   color: var(--misty-rose);
   width: 100vw;
+}
+
+.logo__container h2 {
+  color: var(--desert-sand);
 }
 
 .footer__container {
@@ -27,6 +31,7 @@ footer {
 .footer__container article h4 {
   margin-bottom: 0.6rem;
   font-size: 1rem;
+  color: var(--desert-sand);
 }
 
 .footer__socials {
